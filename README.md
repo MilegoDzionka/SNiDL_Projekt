@@ -2,11 +2,11 @@
 
 [Wprowadzenie](#Wprowadzenie)
 
-[Zarys projektu](#Zarys)
+[Zarys projektu](#Zarys projektu)
 
-[Instrukcja obsługi](#Instrukcja)
+[Instrukcja obsługi](#Instrukcja obsługi)
 
-[Zbiory Danych](#Zbiory)
+[Zbiory Danych](#Zbiory danych)
 
 
 
