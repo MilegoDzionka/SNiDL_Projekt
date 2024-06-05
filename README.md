@@ -21,4 +21,4 @@ Projekt składa się z trzech kroków:
 + Podzielenie tablicy na pojedyńcze znaki
 + Klasyfikacja pojedyńczych znaków oraz złączenie otrzymanych klas w numer tablicy
 
-Do kroku pierwszego użyto architektury Yolov8. Drugi krok został zrobiony poprzez manipulowanie obrazem i szukanie odpowiednich boxów zawierających znaki. Ostatni krok to prosta sieć konwolucyjna stosowana do klasyfikacji.
+Do kroku pierwszego użyto architektury Yolov8. Drugi krok został zrobiony poprzez manipulowanie obrazem i szukanie odpowiednich boxów zawierających znaki. Ostatni krok to prosta sieć konwolucyjna stosowana do klasyfikacji. Kod z implementacją modelu Yolov8 można znaleźć w pliku (tu wstaw). Implementacja dzielenia tablicy znajduje się w pliku [Dzielenie](Dzielenie.ipynb).
