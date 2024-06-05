@@ -2,11 +2,11 @@
 
 [Wprowadzenie](#Wprowadzenie)
 
-[Zarys projektu](#Zarys-projektu)
+[Zarys projektu](#Zarys)
 
-[Instrukcja obsługi](#Instrukcja-obsługi)
+[Instrukcja obsługi](#Instrukcja)
 
-[Zbiory Danych](#Zbiory-danych)
+[Zbiory Danych](#Dane)
 
 
 
@@ -15,7 +15,7 @@
 Jest to repozytorium na rzecz projektu na przedmiot Sieci Neuronowe i Deep Learning (SNiDL). Projekt dotyczny rozpoznawania i odczytywania tablic rejestracyjnych ze zdjęć.
 
 
-## Zarys-projektu
+## Zarys
 
 Projekt składa się z trzech kroków:
 
@@ -27,5 +27,5 @@ Do kroku pierwszego użyto architektury Yolov8. Drugi krok został zrobiony popr
 
 
 
-## Zbiory-danych
+## Dane
 W trakcie tworzenia projektu użyto niejednego zbioru danych. Wśród zbiorów zawierających zdjecia samochodów i pozycje tablic rejestracyjnych (format PASCAL VOC) znajdują się [Car License Plate Detection](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection) oraz [Automatic Number Plate Recognition](https://www.kaggle.com/datasets/aslanahmedov/number-plate-detection). Zbiór użyty do nauki klasyfikatora cyfr i liter to [License Plate Digits Classification Dataset](https://www.kaggle.com/datasets/aladdinss/license-plate-digits-classification-dataset).
