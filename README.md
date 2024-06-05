@@ -1,6 +1,7 @@
 # SNiDL_Projekt
 
 [Wprowadzenie](#Wprowadzenie)
+
 [Zarys projektu](#Zarys)
 
 
