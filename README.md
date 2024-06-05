@@ -4,6 +4,7 @@
 
 [Zarys projektu](#Zarys)
 
+[Instrukcja obsługi](#Instrukcja)
 
 
 
