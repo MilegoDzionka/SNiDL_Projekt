@@ -41,4 +41,4 @@ Ocena zbudowanych modeli jest nietrywialna. Nie dysponujemy zbiorem który zawir
 
 ## Instrukcja
 
-W celu umozliwienia zreplikowania naszych wyników ustaliliśmy seed, jego zmiana może istotnie wpłynać na otrzymane wyniki. Należy pobrać foldery $\textit{CNN\_Letter}$ oraz $\textit{CNN\_Cars}$
+W celu umozliwienia zreplikowania naszych wyników ustaliliśmy seed, jego zmiana może istotnie wpłynać na otrzymane wyniki. Należy pobrać foldery $$\textit{CNN\_Letter}$$ oraz $$\textit{CNN\_Cars}$$
