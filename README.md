@@ -37,7 +37,7 @@ W trakcie tworzenia projektu użyto niejednego zbioru danych. Wśród zbiorów z
 
 ## Ocena
 
-Ocena zbudowanych modeli jest nietrywialna. Nie dysponujemy zbiorem który zawirałby trójkę (obraz,współrzędne,numer) składającej się z obrazu, pozycją tablicy rejestracyjne na nim oraz numer tablicy rejestracyjnej na obrazie. Nawet gdybyśmy dysponowali to wybór funkcji błędu jest nietrywialny. Jednak ze względu na specyfikę problemu, kryterium oceny finalnego modelu zostało odpowiednio potraktowane. Szczegóły znajdują się w raporcie
+Ocena zbudowanych modeli jest nietrywialna. Nie dysponujemy zbiorem który zawierałby trójkę (obraz,współrzędne,numer) składającej się z obrazu, pozycją tablicy rejestracyjne na nim oraz numer tablicy rejestracyjnej na obrazie. Nawet gdybyśmy dysponowali to wybór funkcji błędu jest nietrywialny. Jednak ze względu na specyfikę problemu, kryterium oceny finalnego modelu zostało odpowiednio potraktowane. Szczegóły znajdują się w raporcie
 
 ## Instrukcja
 
