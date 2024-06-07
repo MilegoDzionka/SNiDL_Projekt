@@ -20,7 +20,7 @@
 Jest to repozytorium na rzecz projektu na przedmiot Sieci Neuronowe i Deep Learning (SNiDL). Projekt dotyczny rozpoznawania i odczytywania tablic rejestracyjnych ze zdjęć.
 
 
-## Zarys
+## Zarys projektu
 
 Projekt składa się z trzech kroków:
 
