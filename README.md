@@ -2,7 +2,7 @@
 
 [Wprowadzenie](#Wprowadzenie)
 
-[Zarys projektu](#Zarys_projektu)
+[Zarys projektu](#Zarys-projektu)
 
 [Zbiory Danych](#Dane)
 
