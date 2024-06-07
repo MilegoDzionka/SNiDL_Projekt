@@ -12,7 +12,16 @@ W celu umozliwienia zreplikowania naszych wyników ustaliliśmy seed, jego zmian
 ### Raport 
 Raport znajduje się w pliku :notebook_with_decorative_cover: [Raport](Raport.pdf)
 
-## Zarys projektu
+## Kod
+Kod z szukaniem tablic na zdjęciu znajduje się w pliku 
+Kod z dzieleniem tablicy na znaki znajduje się w pliku [Dzielenie](Dzielenie.ipynb).
+Kod z klasyfikacją znaków znajduje się w pliku
+
+## Prezentacja
+
+Tu będzie prezentacja
+
+### Zarys projektu
 
 Projekt składa się z trzech kroków:
 
