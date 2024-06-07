@@ -2,7 +2,6 @@
 
 
 
-## Raport 
 
 
 
@@ -10,6 +9,14 @@
 
 Jest to repozytorium na rzecz projektu na przedmiot Sieci Neuronowe i Deep Learning (SNiDL). Projekt dotyczny rozpoznawania i odczytywania tablic rejestracyjnych ze zdjęć.
 
+
+# Instrukcja obsługi 
+
+W celu umozliwienia zreplikowania naszych wyników ustaliliśmy seed, jego zmiana może istotnie wpłynać na otrzymane wyniki. Należy pobrać foldery :file_folder: **CNN_Letters** oraz :file_folder: **CNN_Cars**
+
+
+## Raport 
+Raport znajduje się w pliku 
 
 ## Zarys projektu
 
@@ -30,6 +37,3 @@ W trakcie tworzenia projektu użyto niejednego zbioru danych. Wśród zbiorów z
 
 Ocena zbudowanych modeli jest nietrywialna. Nie dysponujemy zbiorem który zawierałby trójkę (obraz,współrzędne,numer) składającej się z obrazu, pozycją tablicy rejestracyjne na nim oraz numer tablicy rejestracyjnej na obrazie. Nawet gdybyśmy dysponowali to wybór funkcji błędu jest nietrywialny. Jednak ze względu na specyfikę problemu, kryterium oceny finalnego modelu zostało odpowiednio potraktowane. Szczegóły znajdują się w raporcie
 
-## Instrukcja obsługi 
-
-W celu umozliwienia zreplikowania naszych wyników ustaliliśmy seed, jego zmiana może istotnie wpłynać na otrzymane wyniki. Należy pobrać foldery :file_folder: **CNN_Letters** oraz :file_folder: **CNN_Cars**
