@@ -1,17 +1,8 @@
 # SNiDL_Projekt
 
-[Wprowadzenie](#Wprowadzenie)
-
-[Zarys projektu](#Zarys-projektu)
-
-[Zbiory Danych](#Zbiory-danych)
-
-[Ocena modelu](#Ocena-dokładności-modelu)
-
-[Instrukcja obsługi](#Instrukcja-obsługi)
 
 
-
+## Raport 
 
 
 
