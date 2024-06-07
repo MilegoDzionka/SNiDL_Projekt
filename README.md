@@ -1,12 +1,6 @@
 # SNiDL_Projekt
 
 
-
-
-
-
-## Wprowadzenie
-
 Jest to repozytorium na rzecz projektu na przedmiot Sieci Neuronowe i Deep Learning (SNiDL). Projekt dotyczny rozpoznawania i odczytywania tablic rejestracyjnych ze zdjęć.
 
 
@@ -15,7 +9,7 @@ Jest to repozytorium na rzecz projektu na przedmiot Sieci Neuronowe i Deep Learn
 W celu umozliwienia zreplikowania naszych wyników ustaliliśmy seed, jego zmiana może istotnie wpłynać na otrzymane wyniki. Należy pobrać foldery :file_folder: **CNN_Letters** oraz :file_folder: **CNN_Cars**
 
 
-## Raport 
+### Raport 
 Raport znajduje się w pliku 
 
 ## Zarys projektu
