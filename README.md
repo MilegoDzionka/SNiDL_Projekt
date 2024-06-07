@@ -13,10 +13,8 @@ W celu umozliwienia zreplikowania naszych wyników ustaliliśmy seed, jego zmian
 Raport znajduje się w pliku :notebook_with_decorative_cover: [Raport](Raport.pdf)
 
 ## Kod
-Kod z szukaniem tablic na zdjęciu znajduje się w pliku.
-
-Kod z dzieleniem tablicy na znaki znajduje się w pliku [Dzielenie](Dzielenie.ipynb).
-
+Kod z szukaniem tablic na zdjęciu znajduje się w pliku.<br />
+Kod z dzieleniem tablicy na znaki znajduje się w pliku [Dzielenie](Dzielenie.ipynb). <br />
 Kod z klasyfikacją znaków znajduje się w pliku.
 
 ## Prezentacja
