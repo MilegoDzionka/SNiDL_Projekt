@@ -10,7 +10,7 @@ W celu umozliwienia zreplikowania naszych wyników ustaliliśmy seed, jego zmian
 
 
 ### Raport 
-Raport znajduje się w pliku 
+Raport znajduje się w pliku :notebook_with_decorative_cover: [Raport](Raport.pdf)
 
 ## Zarys projektu
 
