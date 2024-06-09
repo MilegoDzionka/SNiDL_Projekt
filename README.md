@@ -9,7 +9,7 @@ Jest to repozytorium na rzecz projektu na przedmiot Sieci Neuronowe i Deep Learn
 W Celu replikacji należy pobrać całą zawartość tego repozytorium. W plikach .ipnyb znajdują się ścieżki do plików/folderów. Należy ustawić główną sciężkę na lokalizacje folderu z pobranymi danymi. Powinno to wyglądać tak:
 
 - Główny folder
-  - :file_folder: CNN_Letters
+  - :file_folder: CNN_Letter
   - :file_folder: Dane
   - README.md
   - Test_image.jpg
