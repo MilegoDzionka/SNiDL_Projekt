@@ -11,6 +11,16 @@ W Celu replikacji należy pobrać całą zawartość tego repozytorium. W plikac
 - Główny folder
   - CNN_Letters
   - Dane
+  - README.md
+  - Test_image.jpg
+  - best.pt
+  - model.pt
+  - [Python]Całość
+  - [Python]Dzielenie
+  - [Python]Szukanie
+  - [Python]Klasyfikacja
+ 
+    
 
 ### Raport 
 Raport znajduje się w pliku :notebook_with_decorative_cover: [Raport](Raport.pdf)
