@@ -21,7 +21,7 @@ W Celu replikacji należy pobrać całą zawartość tego repozytorium. W plikac
   - [Python]Szukanie
   - [Python]Klasyfikacja
 
- W razie problemów z pobraniem folderów, mamy również bezpośrednie linki do zbiorów [Dane]{https://drive.google.com/file/d/1_FLU1zXT9rKYJLGNkzCDd0W6O1SSendz/view}
+ W razie problemów z pobraniem folderów, mamy również bezpośrednie linki do zbiorów [Dane](https://drive.google.com/file/d/1_FLU1zXT9rKYJLGNkzCDd0W6O1SSendz/view)
     
 
 ### Raport 
