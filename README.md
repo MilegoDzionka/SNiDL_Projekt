@@ -6,8 +6,11 @@ Jest to repozytorium na rzecz projektu na przedmiot Sieci Neuronowe i Deep Learn
 
 # Instrukcja obsługi 
 
-W celu umozliwienia zreplikowania naszych wyników ustaliliśmy seed, jego zmiana może istotnie wpłynać na otrzymane wyniki. Należy pobrać foldery :file_folder: **CNN_Letters** oraz :file_folder: **CNN_Cars**
+W Celu replikacji należy pobrać całą zawartość tego repozytorium. W plikach .ipnyb znajdują się ścieżki do plików/folderów. Należy ustawić główną sciężkę na lokalizacje folderu z pobranymi danymi. Powinno to wyglądać tak:
 
+- Główny folder
+  - CNN_Letters
+  - Dane
 
 ### Raport 
 Raport znajduje się w pliku :notebook_with_decorative_cover: [Raport](Raport.pdf)
