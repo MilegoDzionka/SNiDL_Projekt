@@ -21,16 +21,17 @@ W Celu replikacji należy pobrać całą zawartość tego repozytorium. W plikac
   - [Python]Szukanie
   - [Python]Klasyfikacja
 
- W razie problemów z pobraniem folderów, mamy również bezpośrednie linki do zbiorów [Dane](https://drive.google.com/file/d/1_FLU1zXT9rKYJLGNkzCDd0W6O1SSendz/view). Folder [CNN_Letter](https://www.kaggle.com/datasets/aladdinss/license-plate-digits-classification-dataset) po pobraniu należy nazwać własnie "CNN_Letter". Oba foldery można również pobrać używając takich [narzędzi](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FMilegoDzionka%2FSNiDL_Projekt%2Ftree%2Fmain%2FDANE)
+ W razie problemów z pobraniem folderów, mamy również bezpośrednie linki do zbiorów [Dane](https://drive.google.com/file/d/1_FLU1zXT9rKYJLGNkzCDd0W6O1SSendz/view). Folder [CNN_Letter](https://www.kaggle.com/datasets/aladdinss/license-plate-digits-classification-dataset) po pobraniu należy nazwać własnie "CNN_Letter". Oba foldery można również pobrać używając takich [narzędzi](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FMilegoDzionka%2FSNiDL_Projekt%2Ftree%2Fmain%2FDANE) (wejście w link rozpocznie pobieranie)
     
 
 ### Raport 
 Raport znajduje się w pliku :notebook_with_decorative_cover: [Raport](Raport.pdf)
 
 ## Kod
-Kod z szukaniem tablic na zdjęciu znajduje się w pliku [Wyszukiwanie]([Python]Wyszukiwanie.ipynb). <br />
+Kod z szukaniem tablic na zdjęciu znajduje się w pliku [Wyszukiwanie]([Python]Szukanie.ipynb). <br />
 Kod z dzieleniem tablicy na znaki znajduje się w pliku [Dzielenie]([Python]Dzielenie.ipynb). <br />
-Kod z klasyfikacją znaków znajduje się w pliku.
+Kod z klasyfikacją znaków znajduje się w pliku [Klasyfikacja]([Python]Klasyfikacja.ipynb). <br />
+Kod z działającą predykcją znajduje się w pliki [Całość]([Python]Całość.ipynb)
 
 ## Prezentacja
 
