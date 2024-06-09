@@ -13,7 +13,7 @@ W Celu replikacji należy pobrać całą zawartość tego repozytorium. W plikac
   - :file_folder: Dane
   - README.md
   - Test_image.jpg
-  - :notebook_with_decorative_cover: Raport.pdf 
+  - Raport.pdf 
   - best.pt
   - model.pt
   - [Python]Całość
