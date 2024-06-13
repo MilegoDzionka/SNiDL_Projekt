@@ -43,7 +43,7 @@ Kod z działającą predykcją znajduje się w pliki [Całość]([Python]Całoś
 
 ## Prezentacja
 
-[![IMAGE ALT TEXT HERE]([https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/SbNnrgLuI0w))
+[![IMAGE ALT TEXT HERE]([https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=SbNnrgLuI0w)
 
 
 ## Zbiory danych
