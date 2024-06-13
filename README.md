@@ -11,11 +11,11 @@ W Celu replikacji należy pobrać całą zawartość tego repozytorium. W plikac
 - Główny folder
   - :file_folder: CNN_Letter
   - :file_folder: Dane
-  - - :file_folder: data_images
-      - :file_folder: test
-      - :file_folder: train
-      - :file_folder: val
-    - data.yaml
+    - - :file_folder: data_images
+        - :file_folder: test
+        - :file_folder: train
+        - :file_folder: val
+      - data.yaml
 
   - README.md
   - Test_image.jpg
