@@ -15,7 +15,7 @@ W Celu replikacji należy pobrać całą zawartość tego repozytorium. W plikac
         - :file_folder: test
         - :file_folder: train
         - :file_folder: val
-      - data.yaml
+    - data.yaml
 
   - README.md
   - Test_image.jpg
